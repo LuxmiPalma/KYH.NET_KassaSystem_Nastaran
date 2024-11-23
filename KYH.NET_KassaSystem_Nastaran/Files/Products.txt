@@ -1,0 +1,17 @@
+300,Bajs,200,per styck
+301,Apple,10,per styck
+302,Coffee,28,per styck
+303,Milk,35,per styck
+304,Melon,22,per kg
+305,Orange,7,per unit
+306,Cherry,80,per kg
+307,Bread,32,per unit
+308,Papaya,30,per unit
+302,Coffee,35,per styck
+303,Milk,10,per styck
+300,Banana,8,per styck
+900,Bjas,1000,kg
+300,Banana,8,per styck
+301,Apple,10,per styck
+302,Coffee,35,per styck
+303,Milk,10,per styck
